@@ -1,0 +1,6 @@
+{
+  "name": "Jelajah Budaya Nusantara",
+  "description": "Aplikasi edukasi interaktif mengenal keragaman suku, pakaian adat, kuliner, dan kesenian Nusantara untuk siswa SD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
